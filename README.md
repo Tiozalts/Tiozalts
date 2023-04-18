@@ -1,11 +1,10 @@
-
 ### Ola eu sou o Zalts👋
 
 [![blog](https://img.shields.io/website?label=silverstars.shop&style=for-the-badge&url=https://silverstars.shop)](https://silverstars.shop)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@zalts)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/1994.safe_kill?igshid=ZDdkNTZiNTM=)
-[![Whatsapp](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/1994.safe_kill?igshid=ZDdkNTZiNTM=)
-[![TIKTOK](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.whatsapp.com/https://chat.whatsapp.com/GKtazVKJLgeCoU5dkZdT24)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GKtazVKJLgeCoU5dkZdT24)
+[![TIKTOK](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@safe_kill?_t=8bTWdCfF7Is&_r=1)
 
 ![Tiozalts GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiozalts&show_icons=true&theme=dracula)
 
