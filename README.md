@@ -22,5 +22,8 @@
 
 Não desperdice seu tempo sendo um figurante
 
+## Visitantes;
+<p align="center">  <img alingn="center" src="https://profile-counter.glitch.me/Tiozalts/count.svg" /></p>
+
 ## ultimos videos;
 - [em breve](https://studio.youtube.com/video/w-QhTeVRTdc/edit)
